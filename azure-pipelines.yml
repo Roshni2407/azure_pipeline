@@ -5,6 +5,9 @@
 trigger:
 - main
 
+pool:
+  name: RoshniPool
+
 resources:
 - repo: self
 
